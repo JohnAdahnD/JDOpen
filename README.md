@@ -1,4 +1,4 @@
 # JDOpen
-# Cleverland first try
-# Litvinov
+Cleverland first try
+litvinov
 #############
